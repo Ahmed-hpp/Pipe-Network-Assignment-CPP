@@ -16,5 +16,5 @@ The program reads input data for nodes and tubes from a text file to compute the
 
 ## How to Run
 1. Ensure a valid input file (like pipedata.txt) is available in the directory.
-2. The program assembles the system Bh = Q, imposes a Dirichlet boundary condition (h1 = 0), and solves for the hydraulic heads.
+2. The program assembles the system Bh = Q, imposes boundary conditions, and solves for the system.
 3. The output can be viewed on the screen or written to a results file.
